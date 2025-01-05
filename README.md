@@ -27,5 +27,5 @@ No need to install any dependencies. Just run the main script using Node.js.
 
 Run the main script:
  ```sh
-   npm start
+   node .
 ```
